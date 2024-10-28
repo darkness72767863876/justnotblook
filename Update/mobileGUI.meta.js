@@ -1,4 +1,4 @@
-// ==UserScript==
+// treckbest2.0
 // @name         Blooket Cheats Plus
 // @namespace    https://github.com/DannyDan0167/Blooket-Cheats
 // @version      15.1
